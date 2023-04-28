@@ -1,4 +1,4 @@
-# Scrapped-wafers-during-manufacturing
+# Scrapped wafers during manufacturing
 
 
 Semiconductors are the brains of today's electronics. They enable technologies critical to a country's economic growth, national security and global competitiveness. From smartphones to airplanes, semiconductors have evolved to improve technologies and do wonders for our convenience. Industries that rely heavily on semiconductors include computing, telecommunications, consumer electronics, banking, security, automotive/transportation, healthcare and manufacturing [1].
